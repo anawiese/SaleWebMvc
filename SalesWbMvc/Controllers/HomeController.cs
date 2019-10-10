@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using SalesWbMvc.Models;
+using SalesWbMvc.Models.ViewModels;
 
 namespace SalesWbMvc.Controllers
 {
